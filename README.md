@@ -72,7 +72,7 @@ Dataset preparation for ESC-50, ESC-10, and UrbanSound8K
 If our work was helpful in your research, please kindly cite this work:
 
 ```
-@inproceedings{wisdom2021s,
+@inproceedings{Sawhney2022InterMix,
   title={InterMix: An Interference-based Data Augmentation And Regularization Technique For Automatic Deep Sound Classification},
   author={Sawhney, Ramit and 
           Neerkaje, Atula Tejaswi},
