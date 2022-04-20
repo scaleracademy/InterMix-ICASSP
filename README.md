@@ -84,5 +84,6 @@ If our work was helpful in your research, please kindly cite this work:
 ```
 
 #### References
-[1] Jindal, A., Ranganatha, N. E., Didolkar, A., Chowdhury, A. G., Jin, D., Sawhney, R., & Shah, R. R. (2020, January). SpeechMix-Augmenting Deep Sound Recognition Using Hidden Space Interpolations. In INTERSPEECH (pp. 861-865).
-[2] Tokozume, Y., Ushiku, Y., & Harada, T. (2018, February). Learning from Between-class Examples for Deep Sound Recognition. In International Conference on Learning Representations.
+<i id=1></i>[1] Jindal, A., Ranganatha, N. E., Didolkar, A., Chowdhury, A. G., Jin, D., Sawhney, R., & Shah, R. R. (2020, January). SpeechMix-Augmenting Deep Sound Recognition Using Hidden Space Interpolations. In INTERSPEECH (pp. 861-865).
+
+<i id=2></i>[2] Tokozume, Y., Ushiku, Y., & Harada, T. (2018, February). Learning from Between-class Examples for Deep Sound Recognition. In International Conference on Learning Representations.
